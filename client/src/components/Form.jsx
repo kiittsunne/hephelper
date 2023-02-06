@@ -127,7 +127,8 @@ const Form = (props) => {
       </div>
       <button
         onClick={() => {
-          props.setData((prev) => [...prev, input]);
+          props.handleSetData(input);
+          setInput(cmpdTemplate);
         }}
       >
         Submit
