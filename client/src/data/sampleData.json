@@ -10,7 +10,10 @@
       "year": "2007",
       "volume": "692",
       "pageNumber": "3606–3613"
-    }
+    },
+    "donorAtom": "Carbon",
+    "formalCharge": 0,
+    "palladiumCarbeneBondLength": 2.017
   },
   {
     "id": 2,
@@ -23,7 +26,10 @@
       "year": "2009",
       "volume": "28",
       "pageNumber": "5395–5404"
-    }
+    },
+    "donorAtom": "Carbon",
+    "formalCharge": 0,
+    "palladiumCarbeneBondLength": 2.014
   },
   {
     "id": 3,
@@ -36,7 +42,10 @@
       "year": "2009",
       "volume": "28",
       "pageNumber": "5395–5404"
-    }
+    },
+    "donorAtom": "Carbon",
+    "formalCharge": 0,
+    "palladiumCarbeneBondLength": 2.020
   },
   {
     "id": 4,
@@ -49,7 +58,10 @@
       "year": "2015",
       "volume": "51",
       "pageNumber": "74–76"
-    }
+    },
+    "donorAtom": "Carbon",
+    "formalCharge": 0,
+    "palladiumCarbeneBondLength": "Unkonwn"
   },
   {
     "id": 5,
@@ -62,6 +74,41 @@
       "year": "2015",
       "volume": "51",
       "pageNumber": "74–76"
-    }
+    },
+    "donorAtom": "Carbon",
+    "formalCharge": 0,
+    "palladiumCarbeneBondLength": "Unkonwn"
+  },
+  {
+    "id": 6,
+    "name": "pyridine",
+    "abbreviation": "Py",
+    "chemicalFormula": "C5H5N",
+    "hep": "159.5",
+    "publication": {
+      "journal": "Organometallics",
+      "year": "2007",
+      "volume": "26",
+      "pageNumber": "6447–6452"
+    },
+    "donorAtom": "Nitrogen",
+    "formalCharge": 0,
+    "palladiumCarbeneBondLength": "1.953"
+  },
+  {
+    "id": 7,
+    "name": "Triphenylphosphine",
+    "abbreviation": "PPh3",
+    "chemicalFormula": "P(C6H5)3",
+    "hep": "173.1",
+    "publication": {
+      "journal": "Organometallics",
+      "year": "2009",
+      "volume": "28",
+      "pageNumber": "5395–5404"
+    },
+    "donorAtom": "Phosphorus",
+    "formalCharge": 1,
+    "palladiumCarbeneBondLength": "Unknown"
   }
 ]
